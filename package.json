@@ -1,0 +1,24 @@
+{
+  "name": "file-tunnel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "send.js",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "formidable": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matrixbirds/file-tunnel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matrixbirds/file-tunnel/issues"
+  },
+  "homepage": "https://github.com/Matrixbirds/file-tunnel#readme"
+}
